@@ -1,4 +1,5 @@
-<?php	namespace Beanstream;
+<?php
+namespace Beanstream;
 
 /**
  * Configuration class to handle merchant id, api keys, platform & version 

@@ -1,4 +1,5 @@
-<?php	namespace Beanstream;
+<?php
+namespace Beanstream;
 
 //TODO implement loader
 require_once 'Exception.php';

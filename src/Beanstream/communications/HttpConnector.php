@@ -1,4 +1,5 @@
-<?php 	namespace Beanstream;
+<?php
+namespace Beanstream;
 
 /**
  * HTTPConnector class to handle HTTP requests to the REST API

@@ -1,4 +1,5 @@
-<?php 	namespace Beanstream;
+<?php
+namespace Beanstream;
 
 /**
  * Enpoints class to build, format and return API endpoint urls based on incoming platform and version

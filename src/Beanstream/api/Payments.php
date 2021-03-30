@@ -1,4 +1,5 @@
-<?php 	namespace Beanstream;
+<?php
+namespace Beanstream;
 
 /**
  * Payments class to handle payment actions
